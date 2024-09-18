@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/macbook-model-3D/static/css/main.b438c9ee.css",
+    "main.js": "/macbook-model-3D/static/js/main.f3429218.js",
+    "static/js/453.fa7abe88.chunk.js": "/macbook-model-3D/static/js/453.fa7abe88.chunk.js",
+    "static/media/mac.glb": "/macbook-model-3D/static/media/mac.1d2f4751e2855ccd470d.glb",
+    "static/media/red.jpg": "/macbook-model-3D/static/media/red.24d7c9c555f2c30df89b.jpg",
+    "index.html": "/macbook-model-3D/index.html",
+    "main.b438c9ee.css.map": "/macbook-model-3D/static/css/main.b438c9ee.css.map",
+    "main.f3429218.js.map": "/macbook-model-3D/static/js/main.f3429218.js.map",
+    "453.fa7abe88.chunk.js.map": "/macbook-model-3D/static/js/453.fa7abe88.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b438c9ee.css",
+    "static/js/main.f3429218.js"
+  ]
+}
